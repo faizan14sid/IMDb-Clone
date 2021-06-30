@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/faizan14sid/IMDb-clone/static/css/main.4c518221.chunk.css",
+    "main.js": "/faizan14sid/IMDb-clone/static/js/main.c09ab85b.chunk.js",
+    "main.js.map": "/faizan14sid/IMDb-clone/static/js/main.c09ab85b.chunk.js.map",
+    "runtime-main.js": "/faizan14sid/IMDb-clone/static/js/runtime-main.3bdfb407.js",
+    "runtime-main.js.map": "/faizan14sid/IMDb-clone/static/js/runtime-main.3bdfb407.js.map",
+    "static/js/2.d9c2d7c8.chunk.js": "/faizan14sid/IMDb-clone/static/js/2.d9c2d7c8.chunk.js",
+    "static/js/2.d9c2d7c8.chunk.js.map": "/faizan14sid/IMDb-clone/static/js/2.d9c2d7c8.chunk.js.map",
+    "static/js/3.e454da48.chunk.js": "/faizan14sid/IMDb-clone/static/js/3.e454da48.chunk.js",
+    "static/js/3.e454da48.chunk.js.map": "/faizan14sid/IMDb-clone/static/js/3.e454da48.chunk.js.map",
+    "index.html": "/faizan14sid/IMDb-clone/index.html",
+    "static/css/main.4c518221.chunk.css.map": "/faizan14sid/IMDb-clone/static/css/main.4c518221.chunk.css.map",
+    "static/js/2.d9c2d7c8.chunk.js.LICENSE.txt": "/faizan14sid/IMDb-clone/static/js/2.d9c2d7c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bdfb407.js",
+    "static/js/2.d9c2d7c8.chunk.js",
+    "static/css/main.4c518221.chunk.css",
+    "static/js/main.c09ab85b.chunk.js"
+  ]
+}
